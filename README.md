@@ -15,7 +15,7 @@ Learning and studying everything that involves front-end development and UI/UX d
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/kaiquezimerer)](https://open.spotify.com/user/kaiquezimerer)
 
 ## Languages and Tools:
-[![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquezimerer&count_private=true)](https://github.com/kaiquezimerer/github-readme-stats)
+[![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquezimerer&count_private=true&theme=dracula)](https://github.com/kaiquezimerer/github-readme-stats)
 
 <code><img height="20" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
