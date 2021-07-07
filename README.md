@@ -1,8 +1,8 @@
-## :rocket: Hello, I'm Kaíque Zimerer!
+## Hello, I'm Kaíque Zimerer!
  
 - Front-end developer :man_technologist:
 - Music lover :metal:
-- Illustrator (sometimes) :writing_hand:
+- Illustrator (sometimes!) :writing_hand:
 
 Learning and studying everything that involves front-end development and UI/UX design.
 
@@ -38,6 +38,4 @@ Learning and studying everything that involves front-end development and UI/UX d
 <code><img height="20" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></code>
 <code><img height="20" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></code>
 
-- Thanks for visiting. 
- 
-- Enjoy it!! 🤖
+Keep calm and let's code! :rocket:
