@@ -3,6 +3,9 @@
 - Front-end developer :man_technologist:
 - Music lover :metal:
 - Illustrator (sometimes) :writing_hand:
+
+Learning and studying everything that involves front-end development and UI/UX design.
+
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kaiquezimerer)](https://github.com/kaiquezimerer)
