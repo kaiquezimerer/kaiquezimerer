@@ -4,11 +4,11 @@
 - Music lover :metal:
 - Illustrator :writing_hand:
 
-Learning and studying front-end development and UI/UX design.
+Learning and studying Front-end development and UI/UX design.
 
  
 ## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kaiquezimerer)](https://github.com/kaiquezimerer)
+<!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kaiquezimerer)](https://github.com/kaiquezimerer) -->
 [![CodePen Badge](https://img.shields.io/badge/Codepen-000?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/kaiquezimerer)](https://codepen.io/kaiquezimerer)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ka%C3%ADque-zimerer-005716b4/)](https://www.linkedin.com/in/ka%C3%ADque-zimerer-005716b4/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-squaree&logo=instagram&logoColor=white&link=https://www.instagram.com/kaiquezimerer)](https://www.instagram.com/kaiquezimerer)
