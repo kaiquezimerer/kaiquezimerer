@@ -2,9 +2,9 @@
  
 - Front-end developer :man_technologist:
 - Music lover :metal:
-- Illustrator (sometimes!) :writing_hand:
+- Illustrator :writing_hand:
 
-Learning and studying everything that involves front-end development and UI/UX design.
+Learning and studying front-end development and UI/UX design.
 
  
 ## About me 
