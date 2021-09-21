@@ -1,6 +1,6 @@
 ## Hello, I'm Kaíque Zimerer!
  
-- Front-end developer :man_technologist:
+- Front-end Developer :man_technologist:
 - Music lover :metal:
 - Illustrator :writing_hand:
 
