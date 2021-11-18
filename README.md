@@ -17,7 +17,7 @@ Learning and studying Front-end, Back-end development and UI/UX design.
 
 ## Languages and Tools:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiquezimerer&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kaiquezimerer" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiquezimerer&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kaiquezimerer" /></div>
 
 [![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquezimerer&count_private=true&theme=dracula)](https://github.com/kaiquezimerer/github-readme-stats)
 
