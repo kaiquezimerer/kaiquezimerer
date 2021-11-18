@@ -19,8 +19,6 @@ Learning and studying Front-end, Back-end development and UI/UX design.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiquezimerer&show_icons=true&locale=en&layout=compact&theme=dracula" alt="kaiquezimerer" /></p>
 
-<br />
-
 [![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquezimerer&count_private=true&theme=dracula)](https://github.com/kaiquezimerer/github-readme-stats)
 
 <span><img height="20" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></span>
