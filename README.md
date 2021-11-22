@@ -5,7 +5,7 @@
 - Music lover :metal:
 - Illustrator :writing_hand:
 
-Learning and studying Front-end, Back-end development and UI/UX design.
+Learning and studying Front-end, Back-end and UI/UX design.
 
  
 ## About me 
