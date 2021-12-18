@@ -16,23 +16,35 @@ Learning and studying Front-end Development, Back-end and UI/UX Design.
 [<img src="https://gist.githubusercontent.com/kaiquezimerer/d6dae6cae05474cfd980260b059d62db/raw/dcae8db96af301bb33741fbc55953af669fa052b/spotify.svg" width="30">](https://open.spotify.com/user/kaiquezimerer?si=26dbc79ae2274529)&nbsp;&nbsp;
 [<img src="https://gist.githubusercontent.com/kaiquezimerer/bd51ba465e297880390b318be8aa95e5/raw/03aecfaa61f323ac33618eaca2ee9d24492bedc2/letterboxd.svg" width="30">](https://letterboxd.com/kaiquezimerer/)
 
-## Stats, Languages and Tools:
+## Languages, Tools and Stats:
+
+
+[![Visual Studio Code](https://img.shields.io/badge/--FFFFFF?logo=visual%20studio%20code&logoColor=0098FF)](https://code.visualstudio.com/)
+[![Figma](https://img.shields.io/badge/--e04a34?logo=figma&logoColor=ffffff)](https://www.figma.com/)
+[![Git](https://img.shields.io/badge/--f0efe7?logo=git&logoColor=F1502F)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/--171515?logo=github&logoColor=ffffff)](https://github.com/)
+[![Notion](https://img.shields.io/badge/--37352F?logo=notion&logoColor=ffffff)](https://www.notion.so/)
+[![Trello](https://img.shields.io/badge/--007ACC?logo=trello&logoColor=ffffff)](https://trello.com/)
+[![HTML5](https://img.shields.io/badge/--F1502F?logo=html5&logoColor=ffffff)](https://html5.org/)
+[![CSS3](https://img.shields.io/badge/--3C99DC?logo=css3&logoColor=ffffff)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Sass](https://img.shields.io/badge/--CD6799?logo=sass&logoColor=ffffff)](https://sass-lang.com/)
+[![JavaScript](https://img.shields.io/badge/--F0DB4F?logo=javascript&logoColor=323330)](https://www.ecma-international.org/technical-committees/tc39/)
+[![React.js](https://img.shields.io/badge/--20232a?logo=react&logoColor=61DBFB)](https://reactjs.org/)
+[![NPM](https://img.shields.io/badge/--FFFFFF?logo=npm&logoColor=FFCA28)](https://www.npmjs.com/)
+[![Yarn](https://img.shields.io/badge/--2188b6?logo=yarn&logoColor=FFFFFF)](https://yarnpkg.com/)
+[![Jest](https://img.shields.io/badge/--12C221?logo=jest&logoColor=ffffff)](https://jestjs.io/)
+[![TypeScript](https://img.shields.io/badge/--3178C8?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/--000000?logo=next.js&logoColor=ffffff)](https://nextjs.org/)
+[![React Native](https://img.shields.io/badge/--61DBFB?logo=react&logoColor=20232a)](https://reactnative.dev/)
+[![Node.js](https://img.shields.io/badge/--3c873a?logo=node.js&logoColor=ffffff)](https://nodejs.org/en/)
+[![Express.js](https://img.shields.io/badge/--FFFFFF?logo=express&logoColor=313548)](https://expressjs.com/pt-br/)
+[![Docker](https://img.shields.io/badge/--2496ed?logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/--3371e3?logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+[![Firebase](https://img.shields.io/badge/--039BE5?logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquezimerer&theme=dracula&layout=compact)
 
 [![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquezimerer&count_private=true&theme=dracula)](https://github.com/kaiquezimerer/github-readme-stats)
-
-<span><img height="20" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></span>
-<span><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></span>
-<span><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
-<span><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></span>
-<span><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></span>
-<span><img height="20" src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white"></span>
-<span><img height="20" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/></span>
-<span><img height="20" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></span>
-<span><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></span>
-<span><img height="20" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/></span>
-<span><img height="20" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/></span>
-<span><img height="20" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></span>
 
 Keep calm and let's code! :rocket:
