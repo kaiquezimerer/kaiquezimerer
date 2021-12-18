@@ -1,21 +1,22 @@
-## Hello, I'm Kaíque Zimerer 🇧🇷
+## Hello, I'm Kaíque :wave:
 
-- Computer Science Bachelor (Universidade São Judas Tadeu) 👨‍🎓
-- Front-end Developer :man_technologist:
-- Music lover :metal:
-- Illustrator :writing_hand:
+-  :man_technologist: Front-end Developer working in São Paulo, Brazil
+-  👨‍🎓 Bachelor of Computer Science (Universidade São Judas Tadeu)
+-  :guitar: Music lover
+- :writing_hand: Amateur Illustrator
 
-Learning and studying Front-end, Back-end and UI/UX design.
+Learning and studying Front-end Development, Back-end and UI/UX Design.
 
  
 ## About me 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ka%C3%ADque-zimerer-005716b4/)](https://www.linkedin.com/in/ka%C3%ADque-zimerer-005716b4/)
-[![CodePen Badge](https://img.shields.io/badge/Codepen-000?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/kaiquezimerer)](https://codepen.io/kaiquezimerer)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-squaree&logo=instagram&logoColor=white&link=https://www.instagram.com/kaiquezimerer)](https://www.instagram.com/kaiquezimerer)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/kaiquezimerer)](https://open.spotify.com/user/kaiquezimerer)
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/8d7ebae0da83fa8b7cf390232afef9f8/raw/2d6922f3cdb9c3b98d1dc69e1ffd0b37180e864b/codepen.svg" width="30">](https://codepen.io/kaiquezimerer)&nbsp;&nbsp;
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/86267a56d8c9dd88d57950d055a1e787/raw/484707b201dc3e14c4fd8307a937a9de9da71666/linkedin.svg" width="30">](https://www.linkedin.com/in/ka%C3%ADque-zimerer-005716b4/)&nbsp;&nbsp;
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/342de919ab8672c36d3a13254677b0dd/raw/b90290d293e286ac1b571667eb26e959ec028320/instagram.svg" width="30">](https://www.instagram.com/kaiquezimerer/)&nbsp;&nbsp;
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/d6dae6cae05474cfd980260b059d62db/raw/dcae8db96af301bb33741fbc55953af669fa052b/spotify.svg" width="30">](https://open.spotify.com/user/kaiquezimerer?si=26dbc79ae2274529)&nbsp;&nbsp;
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/bd51ba465e297880390b318be8aa95e5/raw/03aecfaa61f323ac33618eaca2ee9d24492bedc2/letterboxd.svg" width="30">](https://letterboxd.com/kaiquezimerer/)
 
-## Languages and Tools:
+## Stats, Languages and Tools:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquezimerer&theme=dracula&layout=compact)
 
