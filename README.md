@@ -5,7 +5,7 @@
 -  :guitar: Music lover
 - :writing_hand: Amateur Illustrator
 
-Learning and studying Full Stack Development (focused on React.js, React Native and Node.js) + UI/UX Design.
+Learning and studying Full Stack Development (focused on React.js, React Native and Node.js) & UI/UX Design Enthusiast.
 
  
 ## About me 
