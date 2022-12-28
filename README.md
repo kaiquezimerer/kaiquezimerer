@@ -1,5 +1,7 @@
 ## Hello, I'm Kaíque :wave:
 
+"Keep calm and do it yourself" 🚀
+
 -  :man_technologist: Front-end Developer working in São Paulo, Brazil
 -  👨‍🎓 Bachelor of Computer Science at Universidade São Judas Tadeu
 -  :guitar: Music lover
