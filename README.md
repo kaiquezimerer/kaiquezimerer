@@ -1,7 +1,7 @@
 ## Hello, I'm Kaíque :wave:
 
 -  :man_technologist: Front-end Developer working in São Paulo, Brazil
--  👨‍🎓 Bachelor of Computer Science (Universidade São Judas Tadeu)
+-  👨‍🎓 Bachelor of Computer Science at Universidade São Judas Tadeu
 -  :guitar: Music lover
 - :writing_hand: Amateur Illustrator
 
