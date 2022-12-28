@@ -48,5 +48,3 @@ Learning and studying Full Stack Development (focused on React.js, React Native 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquezimerer&theme=dracula&layout=compact)
 
 [![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquezimerer&count_private=true&theme=dracula)](https://github.com/kaiquezimerer/github-readme-stats)
-
-Keep calm and let's code! :rocket:
