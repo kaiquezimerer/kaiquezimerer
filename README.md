@@ -45,6 +45,6 @@ Learning and studying Full Stack Development (focused on React.js, React Native 
 [![Firebase](https://img.shields.io/badge/--039BE5?logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquezimerer&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api?username=kaiquezimerer&theme=dracula&layout=compact)
 
-[![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquezimerer&count_private=true&theme=dracula)](https://github.com/kaiquezimerer/github-readme-stats)
+[![Kaique's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kaiquezimerer&count_private=true&theme=dracula)](https://github.com/kaiquezimerer/github-readme-stats)
