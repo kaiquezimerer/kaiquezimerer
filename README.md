@@ -12,12 +12,13 @@ Learning and studying Full Stack Development (focused on React.js, React Native 
  
 ## About me 
 
-[<img src="https://gist.githubusercontent.com/kaiquezimerer/8d7ebae0da83fa8b7cf390232afef9f8/raw/2d6922f3cdb9c3b98d1dc69e1ffd0b37180e864b/codepen.svg" width="30">](https://codepen.io/kaiquezimerer)&nbsp;&nbsp;
-[<img src="https://gist.githubusercontent.com/kaiquezimerer/86267a56d8c9dd88d57950d055a1e787/raw/484707b201dc3e14c4fd8307a937a9de9da71666/linkedin.svg" width="30">](https://www.linkedin.com/in/ka%C3%ADque-zimerer-005716b4/)&nbsp;&nbsp;
-[<img src="https://gist.githubusercontent.com/kaiquezimerer/342de919ab8672c36d3a13254677b0dd/raw/b90290d293e286ac1b571667eb26e959ec028320/instagram.svg" width="30">](https://www.instagram.com/kaiquezimerer/)&nbsp;&nbsp;
-[<img src="https://gist.githubusercontent.com/kaiquezimerer/d6dae6cae05474cfd980260b059d62db/raw/dcae8db96af301bb33741fbc55953af669fa052b/spotify.svg" width="30">](https://open.spotify.com/user/kaiquezimerer?si=26dbc79ae2274529)&nbsp;&nbsp;
-[<img src="https://freeiconshop.com/wp-content/uploads/edd/lastfm-flat.png" width="30">](https://www.last.fm/pt/user/kaiquezs)&nbsp;&nbsp;
-[<img src="https://gist.githubusercontent.com/kaiquezimerer/bd51ba465e297880390b318be8aa95e5/raw/03aecfaa61f323ac33618eaca2ee9d24492bedc2/letterboxd.svg" width="30">](https://letterboxd.com/kaiquezimerer/)
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/8d7ebae0da83fa8b7cf390232afef9f8/raw/2d6922f3cdb9c3b98d1dc69e1ffd0b37180e864b/codepen.svg" title="CodePen" width="30">](https://codepen.io/kaiquezimerer)&nbsp;&nbsp;
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/86267a56d8c9dd88d57950d055a1e787/raw/484707b201dc3e14c4fd8307a937a9de9da71666/linkedin.svg" title="LinkedIn" width="30">](https://www.linkedin.com/in/ka%C3%ADque-zimerer-005716b4/)&nbsp;&nbsp;
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/342de919ab8672c36d3a13254677b0dd/raw/b90290d293e286ac1b571667eb26e959ec028320/instagram.svg" title="Instagram" width="30">](https://www.instagram.com/kaiquezimerer/)&nbsp;&nbsp;
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/d6dae6cae05474cfd980260b059d62db/raw/dcae8db96af301bb33741fbc55953af669fa052b/spotify.svg" title="Spotify" width="30">](https://open.spotify.com/user/kaiquezimerer?si=26dbc79ae2274529)&nbsp;&nbsp;
+[<img src="https://freeiconshop.com/wp-content/uploads/edd/lastfm-flat.png" title="Last.fm" width="30">](https://www.last.fm/pt/user/kaiquezs)&nbsp;&nbsp;
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/bd51ba465e297880390b318be8aa95e5/raw/03aecfaa61f323ac33618eaca2ee9d24492bedc2/letterboxd.svg" title="Letterboxd" width="30">](https://letterboxd.com/kaiquezimerer/)&nbsp;&nbsp;
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/543ec2500ae50e7255d6aad2a6252a47/raw/2a2933517539ab7740b7d75d739f194cf645dafe/playstation.svg" title="Playstation Network (PSN)" width="30">](https://profile.playstation.com/kaiquezimerer/)
 
 ## Languages, Tools and Stats:
 
