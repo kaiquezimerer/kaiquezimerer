@@ -22,8 +22,6 @@ Learning and studying Full Stack Development (focused on React.js, React Native 
 
 ## Languages, Tools and Stats:
 
-
-[![Visual Studio Code](https://img.shields.io/badge/--FFFFFF?logo=visual%20studio%20code&logoColor=0098FF)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/--e04a34?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 [![Git](https://img.shields.io/badge/--f0efe7?logo=git&logoColor=F1502F)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/--171515?logo=github&logoColor=ffffff)](https://github.com/)
