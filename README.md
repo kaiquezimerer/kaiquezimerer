@@ -1,7 +1,5 @@
 ## Hello, I'm Kaíque :wave:
 
-"See you space cowboy" 🚀
-
 -  :man_technologist: Front-end Developer working in São Paulo, Brazil
 -  👨‍🎓 Bachelor of Computer Science at Universidade São Judas Tadeu
 -  :guitar: Music lover
