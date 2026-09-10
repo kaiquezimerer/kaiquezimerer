@@ -1,11 +1,15 @@
-## Hello, I'm Kaíque :wave:
+![MidnightOwl](https://github.com/user-attachments/assets/a7605427-fa69-416f-85ec-955ea51490c1)
 
--  :man_technologist: Front-end Developer working in São Paulo, Brazil
--  👨‍🎓 Bachelor of Computer Science at Universidade São Judas Tadeu
--  :guitar: Music lover
-- :writing_hand: Amateur Illustrator
+## Hello World! I'm Kaíque
 
-Learning and studying Full Stack Development (focused on React.js, React Native and Node.js) & UI/UX Design Enthusiast.
+- 🧑🏻‍💻 Front-end Developer working in São Paulo, Brazil
+- 👨🏻‍🎓 Bachelor of Computer Science at Universidade São Judas Tadeu
+- 🎸 Music lover
+- ✍🏻 Amateur Illustrator
+
+Learning and studying Full Stack Development focused on React.js, React Native and Node.js. 🚀
+
+AI Engineering & UI/UX Design Enthusiast. 🤖🎨
 
  
 ## About me 
@@ -20,27 +24,38 @@ Learning and studying Full Stack Development (focused on React.js, React Native 
 
 ## Languages, Tools and Stats:
 
-[![Figma](https://img.shields.io/badge/--e04a34?logo=figma&logoColor=ffffff)](https://www.figma.com/)
+[![macOS](https://img.shields.io/badge/--000000?logo=apple&logoColor=F0F0F0)](https://www.apple.com/br/os/macos/)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/--0078d7.svg?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/--74aa9c?logo=openai&logoColor=ffffff)](https://chatgpt.com/)
 [![Git](https://img.shields.io/badge/--f0efe7?logo=git&logoColor=F1502F)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/--171515?logo=github&logoColor=ffffff)](https://github.com/)
 [![Notion](https://img.shields.io/badge/--37352F?logo=notion&logoColor=ffffff)](https://www.notion.so/)
 [![Trello](https://img.shields.io/badge/--007ACC?logo=trello&logoColor=ffffff)](https://trello.com/)
+[![Figma](https://img.shields.io/badge/--e04a34?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 [![HTML5](https://img.shields.io/badge/--F1502F?logo=html5&logoColor=ffffff)](https://html5.org/)
-[![CSS3](https://img.shields.io/badge/--3C99DC?logo=css3&logoColor=ffffff)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![CSS](https://img.shields.io/badge/--3C99DC?logo=css&logoColor=ffffff)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![Sass](https://img.shields.io/badge/--CD6799?logo=sass&logoColor=ffffff)](https://sass-lang.com/)
+[![Less](https://img.shields.io/badge/--1D365D?logo=less&logoColor=fff)](https://lesscss.org/)
 [![JavaScript](https://img.shields.io/badge/--F0DB4F?logo=javascript&logoColor=323330)](https://www.ecma-international.org/technical-committees/tc39/)
-[![React.js](https://img.shields.io/badge/--20232a?logo=react&logoColor=61DBFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/--3178C8?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![NPM](https://img.shields.io/badge/--FFFFFF?logo=npm&logoColor=FFCA28)](https://www.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/--2188b6?logo=yarn&logoColor=FFFFFF)](https://yarnpkg.com/)
+[![React.js](https://img.shields.io/badge/--20232a?logo=react&logoColor=61DBFB)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/--764ABC?logo=redux&logoColor=fff)](https://redux.js.org/)
 [![Jest](https://img.shields.io/badge/--12C221?logo=jest&logoColor=ffffff)](https://jestjs.io/)
-[![TypeScript](https://img.shields.io/badge/--3178C8?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/--000000?logo=next.js&logoColor=ffffff)](https://nextjs.org/)
 [![React Native](https://img.shields.io/badge/--61DBFB?logo=react&logoColor=20232a)](https://reactnative.dev/)
 [![Node.js](https://img.shields.io/badge/--3c873a?logo=node.js&logoColor=ffffff)](https://nodejs.org/en/)
+[![Nest](https://img.shields.io/badge/--%23E0234E.svg?logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Express.js](https://img.shields.io/badge/--FFFFFF?logo=express&logoColor=313548)](https://expressjs.com/pt-br/)
+[![Postman](https://img.shields.io/badge/--FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
 [![Docker](https://img.shields.io/badge/--2496ed?logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/--3371e3?logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-[![Firebase](https://img.shields.io/badge/--039BE5?logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
+[![nginx](https://img.shields.io/badge/--009639?logo=nginx&logoColor=fff)](https://nginx.org/)
+[![AWS](https://custom-icon-badges.demolab.com/badge/--%23FF9900.svg?logo=aws&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud](https://img.shields.io/badge/--%234285F4.svg?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Cloudflare](https://img.shields.io/badge/--F38020?logo=Cloudflare&logoColor=white)](https://www.cloudflare.com/pt-br/)
+[![Sentry](https://img.shields.io/badge/--362D59?logo=sentry&logoColor=fff)](https://sentry.io/)
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaiquezimerer&theme=dracula&layout=compact)
 
