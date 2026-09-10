@@ -9,7 +9,7 @@
 
 Learning Full Stack Development with React.js, React Native and Node.js. 🚀
 
-AI Engineering & UI/UX Design Enthusiast. 🤖🎨
+AI Engineering & UI/UX Design Enthusiast. 🤖 🎨
 
  
 ## About me 
@@ -26,10 +26,11 @@ AI Engineering & UI/UX Design Enthusiast. 🤖🎨
 
 [![macOS](https://img.shields.io/badge/--000000?logo=apple&logoColor=F0F0F0)](https://www.apple.com/br/os/macos/)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/--0078d7.svg?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![iTerm2](https://img.shields.io/badge/--000000?logo=iterm2&logoColor=fff)](https://iterm2.com/)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/--74aa9c?logo=openai&logoColor=ffffff)](https://chatgpt.com/)
 [![Git](https://img.shields.io/badge/--f0efe7?logo=git&logoColor=F1502F)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/--171515?logo=github&logoColor=ffffff)](https://github.com/)
-[![Notion](https://img.shields.io/badge/--37352F?logo=notion&logoColor=ffffff)](https://www.notion.so/)
+[![Notion](https://img.shields.io/badge/--37352F?logo=notion&logoColor=ffffff)](https://www.notion.com/)
 [![Trello](https://img.shields.io/badge/--007ACC?logo=trello&logoColor=ffffff)](https://trello.com/)
 [![Figma](https://img.shields.io/badge/--e04a34?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 [![HTML5](https://img.shields.io/badge/--F1502F?logo=html5&logoColor=ffffff)](https://html5.org/)
@@ -40,12 +41,12 @@ AI Engineering & UI/UX Design Enthusiast. 🤖🎨
 [![TypeScript](https://img.shields.io/badge/--3178C8?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![NPM](https://img.shields.io/badge/--FFFFFF?logo=npm&logoColor=FFCA28)](https://www.npmjs.com/)
 [![Yarn](https://img.shields.io/badge/--2188b6?logo=yarn&logoColor=FFFFFF)](https://yarnpkg.com/)
-[![React.js](https://img.shields.io/badge/--20232a?logo=react&logoColor=61DBFB)](https://reactjs.org/)
+[![React.js](https://img.shields.io/badge/--20232a?logo=react&logoColor=61DBFB)](https://react.dev/)
 [![Redux](https://img.shields.io/badge/--764ABC?logo=redux&logoColor=fff)](https://redux.js.org/)
 [![Jest](https://img.shields.io/badge/--12C221?logo=jest&logoColor=ffffff)](https://jestjs.io/)
 [![Next.js](https://img.shields.io/badge/--000000?logo=next.js&logoColor=ffffff)](https://nextjs.org/)
 [![React Native](https://img.shields.io/badge/--61DBFB?logo=react&logoColor=20232a)](https://reactnative.dev/)
-[![Node.js](https://img.shields.io/badge/--3c873a?logo=node.js&logoColor=ffffff)](https://nodejs.org/en/)
+[![Node.js](https://img.shields.io/badge/--3c873a?logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![Nest](https://img.shields.io/badge/--%23E0234E.svg?logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Express.js](https://img.shields.io/badge/--FFFFFF?logo=express&logoColor=313548)](https://expressjs.com/pt-br/)
 [![Postman](https://img.shields.io/badge/--FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
