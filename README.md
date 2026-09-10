@@ -7,7 +7,7 @@
 - 🎸 Music lover
 - ✍🏻 Amateur Illustrator
 
-Learning and studying Full Stack Development focused on React.js, React Native and Node.js. 🚀
+Learning Full Stack Development with React.js, React Native and Node.js. 🚀
 
 AI Engineering & UI/UX Design Enthusiast. 🤖🎨
 
