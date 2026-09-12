@@ -20,7 +20,9 @@ AI Engineering & UI/UX Design Enthusiast. 🤖 🎨
 [<img src="https://gist.githubusercontent.com/kaiquezimerer/d6dae6cae05474cfd980260b059d62db/raw/dcae8db96af301bb33741fbc55953af669fa052b/spotify.svg" title="Spotify" width="30">](https://open.spotify.com/user/kaiquezimerer?si=26dbc79ae2274529)&nbsp;&nbsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/145/145806.png" title="Last.fm" width="30">](https://www.last.fm/pt/user/kaiquezs)&nbsp;&nbsp;
 [<img src="https://gist.githubusercontent.com/kaiquezimerer/bd51ba465e297880390b318be8aa95e5/raw/03aecfaa61f323ac33618eaca2ee9d24492bedc2/letterboxd.svg" title="Letterboxd" width="30">](https://letterboxd.com/kaiquezimerer/)&nbsp;&nbsp;
-[<img src="https://gist.githubusercontent.com/kaiquezimerer/543ec2500ae50e7255d6aad2a6252a47/raw/2a2933517539ab7740b7d75d739f194cf645dafe/playstation.svg" title="Playstation Network (PSN)" width="30">](https://profile.playstation.com/kaiquezimerer/)
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/543ec2500ae50e7255d6aad2a6252a47/raw/2a2933517539ab7740b7d75d739f194cf645dafe/playstation.svg" title="Playstation Network (PSN)" width="30">](https://profile.playstation.com/kaiquezimerer/)&nbsp;&nbsp;
+[<img src="https://gist.githubusercontent.com/kaiquezimerer/1bd86d681311bfc10fb86f07938faf59/raw/b5742d76407ce7575a646ac2d500ab00df0c5d2e/nintendo.svg" title="Nintendo Switch (Friend Code)" width="30">](https://lounge.nintendo.com/friendcode/8174-3186-1522/CzTK63MJbk
+)
 
 ## Languages, Tools and Stats:
 
